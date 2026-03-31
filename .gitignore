@@ -1,0 +1,23 @@
+# Credenciales y variables de entorno
+.env
+*.env
+
+# Datos de pacientes (privacidad)
+pacientes/
+
+# Cache y perfiles de navegador
+.cache/
+node_modules/
+scripts/node_modules/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude Code
+.claude/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
